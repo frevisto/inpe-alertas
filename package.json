@@ -1,4 +1,14 @@
 {
+  "name": "inpe-alertas",
+  "version": "1.0.0",
+  "description": "Objetivo: App móvel para alertas de queimadas, inundações, desmatamento e relatos da população em tempo real.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "@eslint/js": "^9.34.0",
     "eslint": "^9.34.0",
@@ -6,3 +16,4 @@
     "prettier": "^3.6.2"
   }
 }
+
